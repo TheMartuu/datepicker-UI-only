@@ -1,2 +1,2 @@
 # datepicker-UI-only
-Datepicker created with HTML and CSS (non-functional) 
+Datepicker created with the purpose of understanding HTML and CSS. It is not functional (yet)  
